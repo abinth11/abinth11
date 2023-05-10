@@ -27,8 +27,7 @@ I'm a passionate JavaScript developer with a focus on React.js and the MERN stac
 
 Feel free to reach out to me through one of the following:
 
-- LinkedIn: [Your LinkedIn Profile]()
-- GitHub: [Your GitHub Profile]()
+- LinkedIn: [linkedin](https://www.linkedin.com/in/abin-th-170676245/)
 - Email: abinth250@gmail.com
 
 I'm open to collaborations, freelance opportunities, or simply connecting with fellow developers. Don't hesitate to get in touch!
