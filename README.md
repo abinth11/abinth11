@@ -20,9 +20,6 @@ I'm a passionate JavaScript developer with a focus on React.js and the MERN stac
 - CSS3
 - Git
 
-## Projects
-
-
 ## Contact Me
 
 Feel free to reach out to me through one of the following:
