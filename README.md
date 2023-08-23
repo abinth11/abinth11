@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 My current playground is the realm of MERN—MongoDB, Express.js, React, and Node.js.<br><br>👯 I'm on the lookout for exciting web development collaborations, especially within the MERN stack.<br><br>🤝 Seeking assistance to unravel the mysteries of advanced JavaScript, React, and backend development.<br><br>🌱 Always learning, I embrace new frameworks and libraries, staying up-to-date with the latest trends in web development.<br><br>💬 Curious about JavaScript, React, Node.js, or anything related to web development? Feel free to ask!.<br><br>⚡ Fun fact: When not immersed in code, I explore the realm of creative coding, experimenting with innovative projects.
+🔭 Navigating MERN's galaxy: MongoDB, Express.js, React, Node.js.<br><br>🚀 Hunting thrilling collaborations in web realms.<br><br>🔍 Untangling advanced JavaScript, React, and backend enigmas.<br><br>🌱 Forever curious, embracing fresh frameworks and trends.<br><br>💬 Curious about web sorcery? Let's chat!<br><br>⚡ When code rests, art awakens – my hidden passion.
 
 
 ## 🌐 Socials:
