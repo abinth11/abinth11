@@ -64,12 +64,14 @@
 <!--<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abinth"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abinth" /></a><a href="https://ko-fi.com/abinth"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="abinth" /></a></p><br><br>-->
 
+<!--
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinth11&hide_progress=true&theme=dark" alt=abinth11 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=abinth11&show_icons=true&locale=en&theme=dark" alt="abinth11" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=abinth11&theme=dark" alt="abinth11" /></p>
+-->
 <!--
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
