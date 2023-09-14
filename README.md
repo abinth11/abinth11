@@ -12,7 +12,7 @@
 - 💬 Ask me about **Javascript,Typescript**
 - 📫 How to reach me **abinth.dev@gmail.com**
 - 📄 Know about my experiences [by clicking here](https://drive.google.com/file/d/1GvFQlQIZAPVsSyZFaupBWIVa76n4Nlyw/view?usp=drive_link)
-- ⚡ Fun fact **☕️ Coffee is my preferred fuel. I believe in the magical power of the coffee bean**
+- ⚡ Fun fact **☕️ Coffee is my preferred fuel. I believe in the magical power of the coffee bean** 
 
 <!--<div> <a href="https://www.linkedin.com/in/abin-th-170676245" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/abinth11" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
