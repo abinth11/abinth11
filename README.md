@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on [Tutortrek](https://tutortrek.online/) 
 - 🤝 I’m looking for help with [Tutortrek](https://tutortrek.online/)
 - 🌱 I’m currently learning **Devops**
-- 💬 Ask me about **Javascript,Typescript**
+- 💬 Ask me about **Javascript,Typescript**  
 - 📫 How to reach me **abinth.dev@gmail.com**
 - 📄 Know about my experiences [by clicking here](https://drive.google.com/file/d/1GvFQlQIZAPVsSyZFaupBWIVa76n4Nlyw/view?usp=drive_link)
 - ⚡ Fun fact **☕️ Coffee is my preferred fuel. I believe in the magical power of the coffee bean** 
