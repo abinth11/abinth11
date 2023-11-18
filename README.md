@@ -7,7 +7,7 @@
      
 - 🔭 I’m currently working on [Tutortrek](https://tutortrek.online/)  
 - 👯 I’m looking to collaborate on [Tutortrek](https://tutortrek.online/) 
-- 🤝 I’m looking for help with [Tutortrek](https://tutortrek.online/)
+- 🤝 I’m looking for help with [Tutortrek](https://tutortrek.online/) 
 - 🌱 I’m currently learning **Devops**
 - 💬 Ask me about **Javascript,Typescript**  
 - 📫 How to reach me **abinth.dev@gmail.com**
