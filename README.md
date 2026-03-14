@@ -69,7 +69,7 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
+<!-- <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
 
@@ -77,16 +77,16 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinth11&layout=compact&theme=tokyonight" />
 
-</p>
+</p> -->
 
 ---
 
-<h3 align="left">🧠 Current Focus</h3>
+<!-- <h3 align="left">🧠 Current Focus</h3>
 
 - Building **high-performance backend systems**
 - Designing **distributed architectures**
 - Implementing **order matching engines**
-- Learning **advanced system design patterns**
+- Learning **advanced system design patterns** -->
 
 ---
 
