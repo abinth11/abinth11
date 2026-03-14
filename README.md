@@ -17,13 +17,7 @@
 
 - **Trading Simulator (Work in Progress)**  
   Distributed trading simulation platform with **order matching engine, portfolio service, and real-time market data streaming**
-
-- **Algorithmic Trading Platform (Professional Work)**  
-  Broker integrations, automated trade execution, and order lifecycle management across multiple exchanges
-
-- **Event Management Platform**  
-  Backend APIs for registration systems, KYC workflows, booking management, and internal messaging systems
-
+  
 ---
 
 <h3 align="left">Connect with me:</h3>  
@@ -41,9 +35,6 @@
 <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" height="30" width="40" />
 </a>
 
-<a href="https://www.instagram.com/a_b1nn_" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" height="30" width="40" />
-</a>
 </p>
 
 ---
