@@ -67,8 +67,6 @@
 
 </p>
 
----
-
 <!-- <h3 align="left">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -78,8 +76,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinth11&layout=compact&theme=tokyonight" />
 
 </p> -->
-
----
 
 <!-- <h3 align="left">🧠 Current Focus</h3>
 
